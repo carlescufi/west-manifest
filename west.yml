@@ -3,7 +3,7 @@ manifest:
     - name: ncs
       url-base: https://github.com/nrfconnect
   projects:
-    - name: nrf
+    - name: sdk-nrf
       remote: ncs
       revision: pull/4139/head
       import: true
