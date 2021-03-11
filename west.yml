@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: nrf
       remote: ncs
-      revision: master
+      revision: pull/4139/head
       import: true
 
   self:
